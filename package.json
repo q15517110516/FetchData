@@ -1,6 +1,7 @@
 {
     "name": "fetchdate",
     "version": "0.1.0",
+    "homepage": "https://q15517110516.github.io/FetchData",
     "private": true,
     "dependencies": {
         "@testing-library/jest-dom": "^4.2.4",
