@@ -1,0 +1,27 @@
+.main {
+    height: 100%;
+    width: 1500px;
+    border: solid black 2px;
+    margin: auto;
+    margin-top: 200px;
+    display: flex;
+    flex-direction: column;
+}
+
+.load-button {
+    align-self: flex-end;
+    margin: 50px 50px 50px 0;
+}
+
+.table {
+    margin: 20px 20px 100px 20px;
+    width: 1400px;
+}
+
+.table>thead {
+    font-size: 25px;
+}
+
+.table>tbody {
+    font-size: 20px;
+}
